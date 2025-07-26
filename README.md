@@ -77,5 +77,16 @@ Yeni personel bilgileri sisteme DevExpress formlar aracılığıyla eklenebilir.
 
 ---
 
-## 📷 Ekran Görüntüleri  
+## 📷 Ekran Görüntüleri
+
+
+![Ana Sayfa](https://github.com/Melike10/EmployeeManagementSystem/blob/af2d6ff96063a62ea235e3762b76b83a519e92ec/b1.png?raw=true)
+![Ana Sayfa](https://github.com/Melike10/EmployeeManagementSystem/blob/af2d6ff96063a62ea235e3762b76b83a519e92ec/b2.png?raw=true)
+![Ana Sayfa](https://github.com/Melike10/EmployeeManagementSystem/blob/af2d6ff96063a62ea235e3762b76b83a519e92ec/b3.png?raw=true)
+![Ana Sayfa](https://github.com/Melike10/EmployeeManagementSystem/blob/af2d6ff96063a62ea235e3762b76b83a519e92ec/b4.png?raw=true)
+![Ana Sayfa](https://github.com/Melike10/EmployeeManagementSystem/blob/af2d6ff96063a62ea235e3762b76b83a519e92ec/b5.png?raw=true)
+![Ana Sayfa](https://github.com/Melike10/EmployeeManagementSystem/blob/af2d6ff96063a62ea235e3762b76b83a519e92ec/b6.png?raw=true)
+![Ana Sayfa](https://github.com/Melike10/EmployeeManagementSystem/blob/af2d6ff96063a62ea235e3762b76b83a519e92ec/b7.png?raw=true)
+![Ana Sayfa](https://github.com/Melike10/EmployeeManagementSystem/blob/af2d6ff96063a62ea235e3762b76b83a519e92ec/b8.png?raw=true)
+![Ana Sayfa](https://github.com/Melike10/EmployeeManagementSystem/blob/af2d6ff96063a62ea235e3762b76b83a519e92ec/b9.png?raw=true)
 
